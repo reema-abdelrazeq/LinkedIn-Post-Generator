@@ -23,8 +23,8 @@ Streamlit for the UI 🖥️
 
 # Installation Steps 🔽
 Clone the repository:
-git clone https://github.com/reema_abdelrazeq/linkedin-post-generatorr.git
-cd linkedin-post-generator
+git clone https://github.com/reema_abdelrazeq/Linkedin-Post-Generator.git
+cd Linkedin-Post-Generator
 
 Install the required dependencies:
 pip install -r requirements.txt
